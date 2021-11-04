@@ -16,7 +16,7 @@ MERN Stack Developer
 **My Popular Projects**
 Global Distance Eduaction [here](https://global-distance-education.com)\
 Aziz's Portfolio [here](https://aziznazarqulov.netlify.app)\
-Kingston LC [here](https://kingston-lc.uz) and [other](https://github.com/Behruz0129?tab=repositories)\
+Kingston LC [here](https://kingston-lc.uz) and [other](https://github.com/Behruz0129?tab=repositories)
 
 ---
 
