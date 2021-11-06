@@ -1,3 +1,4 @@
+![hero](https://github.com/Behruz0129/Behruz0129/blob/main/Thumbnail.png?raw=true)
 **BERDIYEV BEHRUZ**\
 MERN Stack Developer
 
