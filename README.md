@@ -10,7 +10,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝Connect with Me
 ---
 <a href="https://instagram.com/hellobehruz"><img src="https://github.com/Behruz0129/Behruz0129/blob/main/instagram.png?raw=true" /></a>
-<a href="https://https://t.me/CBehruz"><img src="https://github.com/Behruz0129/Behruz0129/blob/main/telegram.png?raw=true" /></a>
+<a href="https://t.me/CBehruz"><img src="https://github.com/Behruz0129/Behruz0129/blob/main/telegram.png?raw=true" /></a>
 <a href="https://twitter.com/BehruzBerdiyev"><img src="https://github.com/Behruz0129/Behruz0129/blob/main/twitter.png?raw=true" /></a>
 <a href="https://www.youtube.com/channel/UCVVsrt9QYSfCXJmI303BgBw"><img src="https://github.com/Behruz0129/Behruz0129/blob/main/youtube.png?raw=true" /></a>
 
