@@ -18,13 +18,13 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Creating and Coping Famaous Landing Pages
-- Blog Post Project [CMS]
+- Creating "Covid Treacker App"
+- Adding Stripe to My Project
 
 ## 🌱 I'm currently learning
 
-- Asynchronous JavaScript
-- Reviewing ReactJS Basics
+- ReactJS with Material UI
+- ChartJS
 
 ## 💼 Technical Skills
 
