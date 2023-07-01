@@ -18,13 +18,13 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Creating "Covid Treacker App"
-- Adding Stripe to My Project
+- Creating " Modern UI/UX in React JS with Tailwind"
+- React fundamental Concepts
 
 ## 🌱 I'm currently learning
 
-- ReactJS with Material UI
-- ChartJS
+- ReactJS
+- TailwindCSS
 
 ## 💼 Technical Skills
 
